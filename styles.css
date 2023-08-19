@@ -29,12 +29,9 @@
 }
 .centered-paragraph {
     text-align: center;
-    width: 1090px;
-    height: 216px;
-    position: absolute;
-    top: 750px;
-    left: 50%; 
-    transform: translateX(-50%); 
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
     color: #686868;
 }
 .card_section{
